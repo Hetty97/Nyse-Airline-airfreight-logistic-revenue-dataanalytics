@@ -1,2 +1,2 @@
-# Nyse-Airline-airfreight-logistic-revenue-dataanalytics
-This data shows how the revenue of  airlines, airfreight and logistics compare.
+# Business analytics
+This data shows the relevant projects worked on.
